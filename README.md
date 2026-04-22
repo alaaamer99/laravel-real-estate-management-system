@@ -59,6 +59,9 @@ php artisan serve
 ## 💼 Need Custom Features?
 
 Payments, advanced reports, integrations...
-
 👉 https://alaaamer.net
+
+Project details:
+👉 https://alaaamer.net/projects/al-sahel-sales
+
 
